@@ -1,0 +1,6 @@
+{
+  "name": "Frosted Link",
+  "description": "Direct link and portal to frosted-poop.duckdns.org",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
