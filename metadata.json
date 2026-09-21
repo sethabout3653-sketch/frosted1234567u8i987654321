@@ -1,0 +1,6 @@
+{
+  "name": "Education Link",
+  "description": "Direct link and portal to education destination",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
