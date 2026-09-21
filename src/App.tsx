@@ -8,7 +8,7 @@ import { ExternalLink, Globe } from 'lucide-react';
 
 export default function App() {
   const targetUrl = 'http://frosted-poop.duckdns.org';
-  const displayText = 'link to frosted';
+  const displayText = 'link to education';
 
   return (
     <div
@@ -46,7 +46,7 @@ export default function App() {
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-xl bg-sky-500 hover:bg-sky-400 active:bg-sky-600 text-slate-950 font-medium text-sm transition-colors duration-150 shadow-md"
           >
-            <span>Visit Host</span>
+            <span>start learning</span>
             <ExternalLink className="w-4 h-4" />
           </a>
         </div>
