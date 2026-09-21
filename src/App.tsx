@@ -11,7 +11,7 @@ export default function App() {
   const [copied, setCopied] = useState(false);
   const targetHost = 'frosted-poop.duckdns.org';
   const targetUrl = 'http://frosted-poop.duckdns.org';
-  const displayText = 'link to frosted : frosted-poop.duckdns.org';
+  const displayText = 'link to frosted';
 
   const handleCopy = async () => {
     try {
